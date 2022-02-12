@@ -1,6 +1,6 @@
 A repository for 2 tasks.       
-First - a navigation system through a json file       
-Options for user: 'start again', 'exit' at any time     
+First - a navigation system through a json file.       
+Options for user: 'start again', 'exit' at any time.     
   Module nav_json.py helps you with hints that contain possible choises.      
   Running from the command line is supported. Argument - a path to a json file.       
   Example with file twitter1.json:    
